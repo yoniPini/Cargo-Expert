@@ -1,0 +1,11 @@
+
+# dependencies
+/node_modules
+
+#testing
+uploadFile.html
+*.txt
+dataSet.csv
+
+#caching
+/__pycache__
